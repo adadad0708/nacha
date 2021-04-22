@@ -1,0 +1,11 @@
+{
+  "name": "heytea-master",
+  "version": "1.0.0",
+  "description": "**特别声明：本项目中的展示图片归喜茶所有。**",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

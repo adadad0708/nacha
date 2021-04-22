@@ -1,0 +1,34 @@
+.container {
+	background-color: $bg-color-white;
+	display: flex;
+	flex-direction: column;
+}
+
+.header {
+	z-index: 10;
+
+	.search-box {
+		height: 100rpx;
+		padding: 20rpx 40rpx;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+
+		.search-input {
+			height: 60rpx;
+			width: 100%;
+			background-color: #f7f7f7;
+			font-size: $font-size-base;
+			border-radius: 50rem !important;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+
+			.search-icon {
+				width: 30rpx;
+				height: 30rpx;
+				margin-right: 10rpx;
+			}
+		}
+	}
+	}
